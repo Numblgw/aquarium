@@ -11,6 +11,10 @@
   <modules>
     <module>aquarium-apiserver</module>
     <module>aquarium-raft</module>
+    <module>aquarium-log</module>
+    <module>aquarium-common</module>
+    <module>aquarium-metrics</module>
+    <module>aquarium-store</module>
   </modules>
 
 
